@@ -1,6 +1,6 @@
 # Cardiovascular
 ## Introduction
-This is the machine learning scripts for analysis of ASCVD, CHF and hypertension.
+This is the machine learning script for analysis of ASCVD, CHF and hypertension.
 
 ## Installation
 ```
